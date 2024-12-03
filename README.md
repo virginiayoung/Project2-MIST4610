@@ -35,12 +35,12 @@ Justification: Creating a procedure that outputs the total number of movies acto
 <img width="631" alt="Screenshot 2024-12-02 at 9 02 46 PM" src="https://github.com/user-attachments/assets/302b758f-b121-4c70-9cc3-ef3b0ce6b58b">
 <img width="160" alt="Screenshot 2024-12-02 at 9 03 03 PM" src="https://github.com/user-attachments/assets/b89e6bdd-f8cb-466b-9e81-b5447114b1e4">
 
-Justification:
+Justification: Creating a procedure that takes the movies and returns the streaming platform is important for enhancing customer experience. It allows managers to track where specific movies are available. This can aid them in decisions on which streaming platforms they want to put their movie on. 
 
 # Query 5: Create a procedure that takes in an actor's name as a parameter and returns that actor's mentor
 <img width="578" alt="Screenshot 2024-12-02 at 9 03 20 PM" src="https://github.com/user-attachments/assets/9997ec6d-3a5a-4067-ae2b-1a5d0543cf69">
 <img width="203" alt="Screenshot 2024-12-02 at 9 03 30 PM" src="https://github.com/user-attachments/assets/fa8661b8-d983-47ac-be4b-f93e951a5956">
 
-Justification:
+Justification: Creating a procedure that takes an actors name as a parameter and returns their mentor is valuable for understanding mentor relationships in the movie industry. It allows managers to track emerging talented actors that they can play roles in their upcoming movies.
 
 # Tableau Dashboard: Provides information about box office revenue based on many different factors
