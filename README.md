@@ -16,22 +16,31 @@ Since we are expanding what we completed in project 1 into project 2, we felt it
 # Query 1: Create a view that calculates the average rating for each genre
 <img width="467" alt="Screenshot 2024-12-02 at 7 31 44 PM" src="https://github.com/user-attachments/assets/be55039e-adfa-4519-a60e-7acfef8d0706">
 <img width="267" alt="Screenshot 2024-12-02 at 7 32 21 PM" src="https://github.com/user-attachments/assets/18538ae0-1832-442d-b1c7-fe2808fc724f">
-Justification:
+
+Justification: Calculating the average rating for each genre allows managers to gain insight into audeince preferences and market trends. It can allow the manager to optimize their rating by aligning their movie with market trends and audience preferences. This can allow them to increase their revenue. Movies with higher ratings generally have a higher revenue.
 
 # Query 2: Create a procedure that takes multiple paramters to filter movies by genre and range of release years
 <img width="282" alt="Screenshot 2024-12-02 at 7 32 54 PM" src="https://github.com/user-attachments/assets/c81d81f0-cf19-44c4-a16b-cc99dd3b559f">
 <img width="286" alt="Screenshot 2024-12-02 at 7 33 10 PM" src="https://github.com/user-attachments/assets/52074616-76c9-4119-81de-dc655b9de324">
-Justification:
+
+Justification: Creating a procedure that filters movie by genre and release date allows managers to analyze trends within a specific genre over time. This allows managers to understand historical data so that they can tailor their movie to keep up with current market trends. This can lead to an increase in revenue for future movies.
 
 # Query 3: Create a procedure that specifies an actor's name to output the total amount of movies that them and all other actors are in
 <img width="348" alt="Screenshot 2024-12-02 at 7 33 50 PM" src="https://github.com/user-attachments/assets/05dafe34-3f39-49a5-b2a4-27f4ef0fa64b">
 <img width="327" alt="Screenshot 2024-12-02 at 7 34 04 PM" src="https://github.com/user-attachments/assets/64ac0639-3029-41b3-b220-bfcdb2639514">
-Justification:
 
-# Query 4: 
+Justification: Creating a procedure that outputs the total number of movies actors have been in is valueable for understanding collaboration patterns. Actors who often work together can lead to higher audience engagenment, which can also lead to a more successful box office.
+
+# Query 4:
+<img width="631" alt="Screenshot 2024-12-02 at 9 02 46 PM" src="https://github.com/user-attachments/assets/302b758f-b121-4c70-9cc3-ef3b0ce6b58b">
+<img width="160" alt="Screenshot 2024-12-02 at 9 03 03 PM" src="https://github.com/user-attachments/assets/b89e6bdd-f8cb-466b-9e81-b5447114b1e4">
+
 Justification:
 
 # Query 5
+<img width="578" alt="Screenshot 2024-12-02 at 9 03 20 PM" src="https://github.com/user-attachments/assets/9997ec6d-3a5a-4067-ae2b-1a5d0543cf69">
+<img width="203" alt="Screenshot 2024-12-02 at 9 03 30 PM" src="https://github.com/user-attachments/assets/fa8661b8-d983-47ac-be4b-f93e951a5956">
+
 Justification:
 
 # Tableau Dashboard: Provides information about box office revenue based on many different factors
